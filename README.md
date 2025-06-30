@@ -1,4 +1,4 @@
-# 🧑‍💻 Flutter User Manager - Modern Responsive App
+# 🧑‍💻 Flutter User Manager _ Assignment
 
 A beautiful, responsive, and smart Flutter application for managing users with search, profile details, offline mode, and add-new-user form — built using **Provider**, REST API integration, and clean UI/UX architecture.
 
